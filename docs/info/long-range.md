@@ -52,6 +52,7 @@ Anyone can add an entry to the table, and entries should include the:
 | 12Km | 900M | 50HZ | 100mW | Quad | Yes | Taufik | [Link](https://www.youtube.com/watch?v=dlpwG76BGs8&ab_channel=CauSiang) |
 | 11Km | 900M | 50HZ | 100mW | Quad | No | Taufik | [Link](https://youtu.be/ySBvXENS33s) |
 | 10Km | 2.4G | 250HZ | 100mW | Wing | No | Snipes | [Link](https://youtu.be/dJYfWLtXVg8) |
+| 7.1Km | 2.4G | 500HZ | 100mW | Wing | No | British | [Link](https://www.youtube.com/watch?v=FsQiL0LYnaY) |
 | 3Km | 2.4G (ceramic chip antenna RX) | 500HZ | 100mW | Quad | No | Spec | [Link](https://www.youtube.com/watch?v=kfa6ugX46n8) |
 | 10Km | 900M | 50HZ | 100mW | Quad | Yes | Taufik | [Link](https://youtu.be/Pi2j17T2dSk) |
 | 5.5Km | 900M | 50HZ | 100mW | Quad | No | Abdul | [Link](https://youtu.be/onFqZNVJiFQ) |
